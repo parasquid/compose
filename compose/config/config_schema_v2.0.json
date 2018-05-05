@@ -78,6 +78,7 @@
           },
           "additionalProperties": false
         },
+        "auto_up": {"type": "boolean"},
         "build": {
           "oneOf": [
             {"type": "string"},
